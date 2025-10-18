@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+.localized
+.Spotlight-V100
+.Trashes
+Icon?
+._*
+
+# Xcode project files (if applicable)
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcuserdatad/
+*.xcassets/
+build/
+DerivedData/
+
+# Other common files/folders
+.idea/ # IntelliJ IDEA project files
+.vscode/ # VS Code settings
+node_modules/ # Node.js dependencies
+.env # Environment variables
